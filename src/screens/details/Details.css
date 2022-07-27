@@ -1,0 +1,12 @@
+.detailsPage .page-container{
+    margin-left: 24px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    height: 24px;
+}
+.breadCrumb a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
